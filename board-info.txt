@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 require version-bootloader=L710VPBLJ7|L710VPBMA6|L710VPBMB1|L710VPBMD4|L710VPAMD7|S960LWYAMD6
 =======
 require version-bootloader=L710VPBLJ7|L710VPBMA6|L710VPBMB1|L710VPBMD4|L710VPAMD7
 >>>>>>> 84b38e1... d2spr: add virgin mobile bootloader
+=======
+require version-bootloader=L710VPBLJ7|L710VPBMA6|L710VPBMB1|L710VPBMD4|L710VPAMD7|S960LWYAMD6
+>>>>>>> ae5f93a... d2spr: add support for d2tfnspr
 

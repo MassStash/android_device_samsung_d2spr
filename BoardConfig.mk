@@ -28,6 +28,12 @@
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2spr,d2spi,d2tfnspr
+<<<<<<< HEAD
+=======
+
+# Kernel
+TARGET_KERNEL_CONFIG    := cyanogen_d2spr_defconfig
+>>>>>>> ae5f93a... d2spr: add support for d2tfnspr
 
 TARGET_BOARD_INFO_FILE ?= device/samsung/d2spr/board-info.txt
 
