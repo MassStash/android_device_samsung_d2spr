@@ -31,9 +31,12 @@ TARGET_OTA_ASSERT_DEVICE := d2spr,d2spi,d2tfnspr
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 # Kernel
 TARGET_KERNEL_CONFIG    := cyanogen_d2spr_defconfig
 >>>>>>> ae5f93a... d2spr: add support for d2tfnspr
 
+=======
+>>>>>>> f90f2d7... defconfig is now commnized in d2-common
 TARGET_BOARD_INFO_FILE ?= device/samsung/d2spr/board-info.txt
 
