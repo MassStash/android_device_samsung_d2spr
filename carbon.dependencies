@@ -1,9 +1,9 @@
 [
  {
-   "remote": "cr",
-   "repository": "CarbonDev/android_device_samsung_d2-common",
+   "remote": "ms",
+   "repository": "android_device_samsung_d2-common",
    "target_path": "device/samsung/d2-common",
-   "revision": "kk"
+   "revision": "mscarbon"
  },
  {
    "remote": "cm",
@@ -18,8 +18,8 @@
    "revision": "cm-11.0"
  },
  {
-   "remote": "cm",
-   "repository": "CyanogenMod/android_kernel_samsung_d2",
+   "remote": "ms",
+   "repository": "android_kernel_samsung_d2",
    "target_path": "kernel/samsung/d2",
    "revision": "cm-11.0"
  },
