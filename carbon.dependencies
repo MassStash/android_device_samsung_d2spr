@@ -21,12 +21,12 @@
    "remote": "ms",
    "repository": "android_kernel_samsung_d2",
    "target_path": "kernel/samsung/d2",
-   "revision": "cm-11.0"
+   "revision": "mscarbon"
  },
  {
   "remote": "cr",
   "repository": "CarbonDev/proprietary_vendor_samsung",
   "target_path": "vendor/samsung",
-  "revision": "cm-11.0"
+  "revision": "kk"
  }
 ]
